@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "serve": "php -S localhost:2222 -t app",
     "cy:open": "cypress open",
     "test": "cypress run"
   },
