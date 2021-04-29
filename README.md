@@ -11,9 +11,6 @@ npm i
 ## Execução dos testes
 
 ```sh
-# iniciar app
-npm run serve
-
 # usar cypress
 npm run cy:open #browser
 # ou
